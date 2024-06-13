@@ -1,0 +1,247 @@
+{
+  "estados": [
+    {
+      "nome": "Acre",
+      "descricao": "Acre é um estado localizado na região Norte do Brasil, conhecido por suas florestas densas e biodiversidade.",
+      "clima": "O clima do Acre é tropical úmido com altas temperaturas e chuvas abundantes durante todo o ano.",
+      "habitantes": "894,470",
+      "area_km2": "152,581.4",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_do_Acre.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Acre_in_Brazil.svg"
+    },
+    {
+      "nome": "Alagoas",
+      "descricao": "Alagoas é um estado localizado na região Nordeste do Brasil, conhecido por suas belas praias e lagoas.",
+      "clima": "O clima de Alagoas é tropical, com temperaturas elevadas e chuvas concentradas no verão.",
+      "habitantes": "3,351,543",
+      "area_km2": "27,767.7",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alagoas_in_Brazil.svg"
+    },
+    {
+      "nome": "Amapá",
+      "descricao": "Amapá é um estado localizado na região Norte do Brasil, conhecido por sua biodiversidade e reservas florestais.",
+      "clima": "O clima do Amapá é equatorial, quente e úmido durante o ano todo.",
+      "habitantes": "861,773",
+      "area_km2": "142,814.6",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_do_Amap%C3%A1.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Amapa_in_Brazil.svg"
+    },
+    {
+      "nome": "Amazonas",
+      "descricao": "Amazonas é o maior estado do Brasil em área territorial, localizado na região Norte e coberto em grande parte pela floresta Amazônica.",
+      "clima": "O clima do Amazonas é equatorial, quente e úmido durante o ano todo.",
+      "habitantes": "4,207,714",
+      "area_km2": "1,570,745.7",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_do_Amazonas.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Amazonas_in_Brazil.svg"
+    },
+    {
+      "nome": "Bahia",
+      "descricao": "Bahia é um estado no nordeste do Brasil, famoso por sua rica cultura afro-brasileira, carnaval vibrante e praias paradisíacas.",
+      "clima": "O clima da Bahia é predominantemente tropical, com variações entre o litoral e o interior.",
+      "habitantes": "14,930,634",
+      "area_km2": "564,733.2",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_da_Bahia.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bahia_in_Brazil.svg"
+    },
+    {
+      "nome": "Ceará",
+      "descricao": "Ceará é um estado localizado na região Nordeste do Brasil, conhecido por suas praias deslumbrantes e cultura rica.",
+      "clima": "O clima do Ceará é semiárido, com chuvas escassas e temperaturas elevadas.",
+      "habitantes": "9,240,580",
+      "area_km2": "148,920.5",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_do_Cear%C3%A1.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ceara_in_Brazil.svg"
+    },
+    {
+      "nome": "Distrito Federal",
+      "descricao": "Distrito Federal é onde está localizada a capital do Brasil, Brasília, conhecida por sua arquitetura modernista.",
+      "clima": "O clima do Distrito Federal é tropical de altitude, com uma estação seca e outra chuvosa.",
+      "habitantes": "3,055,149",
+      "area_km2": "5,802",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg/1280px-Bandeira_do_Distrito_Federal_%28Brasil%29.svg.png",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Distrito_Federal_in_Brazil.svg"
+    },
+    {
+      "nome": "Espírito Santo",
+      "descricao": "Espírito Santo é um estado localizado na região Sudeste do Brasil, conhecido por suas praias e montanhas.",
+      "clima": "O clima do Espírito Santo é tropical, com verões quentes e chuvosos e invernos amenos e secos.",
+      "habitantes": "4,018,650",
+      "area_km2": "46,095.6",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Espirito_Santo_in_Brazil.svg"
+    },
+    {
+      "nome": "Goiás",
+      "descricao": "Goiás é um estado localizado na região Centro-Oeste do Brasil, conhecido por suas belezas naturais e rica cultura sertaneja.",
+      "clima": "O clima de Goiás é tropical, com uma estação seca e outra chuvosa.",
+      "habitantes": "7,113,540",
+      "area_km2": "340,086.7",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Goi%C3%A1s.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Goias_in_Brazil.svg"
+    },
+    {
+      "nome": "Maranhão",
+      "descricao": "Maranhão é um estado localizado na região Nordeste do Brasil, conhecido por sua diversidade cultural e os Lençóis Maranhenses.",
+      "clima": "O clima do Maranhão é tropical, com uma estação chuvosa e outra seca.",
+      "habitantes": "7,153,262",
+      "area_km2": "331,983.3",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_do_Maranh%C3%A3o.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Maranhao_in_Brazil.svg"
+    },
+    {
+      "nome": "Mato Grosso",
+      "descricao": "Mato Grosso é um estado localizado na região Centro-Oeste do Brasil, conhecido por suas vastas áreas de cerrado e o Pantanal.",
+      "clima": "O clima de Mato Grosso é tropical, com uma estação seca e outra chuvosa.",
+      "habitantes": "3,567,234",
+      "area_km2": "903,357.9",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bandeira_de_Mato_Grosso.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mato_Grosso_in_Brazil.svg"
+    },
+    {
+      "nome": "Mato Grosso do Sul",
+      "descricao": "Mato Grosso do Sul é um estado localizado na região Centro-Oeste do Brasil, famoso pelo Pantanal, uma das maiores planícies alagáveis do mundo.",
+      "clima": "O clima de Mato Grosso do Sul é tropical, com variações de semiárido no norte e subúmido no sul.",
+      "habitantes": "2,809,394",
+      "area_km2": "357,145.5",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mato_Grosso_do_Sul_in_Brazil.svg"
+    },
+    {
+      "nome": "Minas Gerais",
+      "descricao": "Minas Gerais é um estado localizado na região Sudeste do Brasil, conhecido por sua rica história colonial e culinária típica.",
+      "clima": "O clima de Minas Gerais é predominantemente tropical de altitude, com variações de acordo com a região.",
+      "habitantes": "21,292,666",
+      "area_km2": "586,528.3",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Minas_Gerais_in_Brazil.svg"
+    },
+    {
+      "nome": "Pará",
+      "descricao": "Pará é um estado localizado na região Norte do Brasil, famoso pelo Círio de Nazaré e o rio Amazonas.",
+      "clima": "O clima do Pará é equatorial, quente e úmido durante o ano todo.",
+      "habitantes": "8,602,865",
+      "area_km2": "1,247,689.5",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_do_Par%C3%A1.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Para_in_Brazil.svg"
+    },
+    {
+      "nome": "Paraíba",
+      "descricao": "Paraíba é um estado localizado na região Nordeste do Brasil, conhecido por suas praias e o ponto mais oriental das Américas, a Ponta do Seixas.",
+      "clima": "O clima da Paraíba é tropical, com uma estação chuvosa e outra seca.",
+      "habitantes": "4,039,277",
+      "area_km2": "56,469.8",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_da_Para%C3%ADba.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Paraiba_in_Brazil.svg"
+    },
+    {
+      "nome": "Paraná",
+      "descricao": "Paraná é um estado localizado na região Sul do Brasil, famoso pelas Cataratas do Iguaçu e sua forte influência europeia.",
+      "clima": "O clima do Paraná é subtropical, com verões quentes e invernos amenos.",
+      "habitantes": "11,516,840",
+      "area_km2": "199,307.9",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_do_Paran%C3%A1.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Parana_in_Brazil.svg"
+    },
+    {
+      "nome": "Pernambuco",
+      "descricao": "Pernambuco é um estado localizado na região Nordeste do Brasil, conhecido por sua cultura rica, incluindo o frevo e o maracatu.",
+      "clima": "O clima de Pernambuco é tropical, com temperaturas elevadas e chuvas bem distribuídas ao longo do ano.",
+      "habitantes": "9,616,621",
+      "area_km2": "98,311.6",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira_de_Pernambuco.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Pernambuco_in_Brazil.svg"
+    },
+    {
+      "nome": "Piauí",
+      "descricao": "Piauí é um estado localizado na região Nordeste do Brasil, conhecido por seu litoral curto mas bonito e o Parque Nacional da Serra da Capivara.",
+      "clima": "O clima do Piauí é semiárido, com chuvas escassas e temperaturas elevadas.",
+      "habitantes": "3,289,290",
+      "area_km2": "251,529.2",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_do_Piau%C3%AD.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Piaui_in_Brazil.svg"
+    },
+    {
+      "nome": "Rio de Janeiro",
+      "descricao": "Rio de Janeiro é um estado localizado na região Sudeste do Brasil, famoso por suas praias, o Carnaval e o Cristo Redentor.",
+      "clima": "O clima do Rio de Janeiro é tropical atlântico, com verões quentes e chuvosos e invernos amenos.",
+      "habitantes": "17,366,189",
+      "area_km2": "43,696.1",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rio_de_Janeiro_in_Brazil.svg"
+    },
+    {
+      "nome": "Rio Grande do Norte",
+      "descricao": "Rio Grande do Norte é um estado localizado na região Nordeste do Brasil, conhecido por suas dunas e o maior cajueiro do mundo.",
+      "clima": "O clima do Rio Grande do Norte é tropical, com altas temperaturas e chuvas concentradas no verão.",
+      "habitantes": "3,534,165",
+      "area_km2": "52,797",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_do_Rio_Grande_do_Norte.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Rio_Grande_do_Norte_in_Brazil.svg"
+    },
+    {
+      "nome": "Rio Grande do Sul",
+      "descricao": "Rio Grande do Sul é o estado mais ao sul do Brasil, conhecido por sua influência cultural europeia, principalmente alemã e italiana.",
+      "clima": "O clima do Rio Grande do Sul é subtropical, com quatro estações bem definidas.",
+      "habitantes": "11,422,973",
+      "area_km2": "281,730.2",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_do_Rio_Grande_do_Sul.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Rio_Grande_do_Sul_in_Brazil.svg"
+    },
+    {
+      "nome": "Rondônia",
+      "descricao": "Rondônia é um estado localizado na região Norte do Brasil, conhecido por suas reservas florestais e produção de soja.",
+      "clima": "O clima de Rondônia é tropical, com uma estação seca e outra chuvosa.",
+      "habitantes": "1,796,460",
+      "area_km2": "237,576.2",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/1280px-Bandeira_de_Rond%C3%B4nia.svg.png",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rondonia_in_Brazil.svg"
+    },
+    {
+      "nome": "Roraima",
+      "descricao": "Roraima é um estado localizado na região Norte do Brasil, conhecido por suas belas paisagens naturais, incluindo o Monte Roraima.",
+      "clima": "O clima de Roraima é equatorial, com uma estação seca e outra chuvosa.",
+      "habitantes": "652,713",
+      "area_km2": "224,300.5",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_de_Roraima.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Roraima_in_Brazil.svg"
+    },
+    {
+      "nome": "Santa Catarina",
+      "descricao": "Santa Catarina é um estado localizado na região Sul do Brasil, conhecido por suas praias, serras e influência cultural alemã e italiana.",
+      "clima": "O clima de Santa Catarina é subtropical, com verões quentes e invernos frios.",
+      "habitantes": "7,252,502",
+      "area_km2": "95,346.2",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Santa_Catarina.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Santa_Catarina_in_Brazil.svg"
+    },
+    {
+      "nome": "São Paulo",
+      "descricao": "São Paulo é o estado mais populoso do Brasil, situado na região Sudeste. É o centro econômico do país, com uma forte indústria e serviços.",
+      "clima": "O clima em São Paulo varia de tropical no litoral a subtropical no interior.",
+      "habitantes": "46,289,333",
+      "area_km2": "248,209.4",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/S%C3%A3o_Paulo_in_Brazil.svg"
+    },
+    {
+      "nome": "Sergipe",
+      "descricao": "Sergipe é o menor estado do Brasil, localizado na região Nordeste, conhecido por suas praias e rica cultura folclórica.",
+      "clima": "O clima de Sergipe é tropical, com altas temperaturas e chuvas bem distribuídas ao longo do ano.",
+      "habitantes": "2,338,474",
+      "area_km2": "21,918.4",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Sergipe.svg",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sergipe_in_Brazil.svg"
+    },
+    {
+      "nome": "Tocantins",
+      "descricao": "Tocantins é um estado localizado na região Norte do Brasil, conhecido por suas belezas naturais e o rio Araguaia.",
+      "clima": "O clima de Tocantins é tropical, com uma estação seca e outra chuvosa.",
+      "habitantes": "1,590,248",
+      "area_km2": "277,720.5",
+      "bandeira_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandeira_do_Tocantins.svg/1280px-Bandeira_do_Tocantins.svg.png",
+      "mapa_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Tocantins_in_Brazil.svg"
+    }
+  ]
+}
