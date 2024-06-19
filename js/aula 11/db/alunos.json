@@ -1,0 +1,34 @@
+{
+  "alunos": [
+    {
+      "nome": "João",
+      "idade": "19",
+      "cidade": "Camocim"
+    },
+    {
+      "nome": "Luana",
+      "idade": "21",
+      "cidade": "Parnaíba"
+    },
+    {
+      "nome": "Beatriz Soares",
+      "idade": "26",
+      "cidade": "Xique-xique"
+    },
+    {
+      "nome": "Gabi",
+      "idade": "21",
+      "cidade": "Parnaíba"
+    },
+    {
+      "nome": "Gilson Junio",
+      "idade": "21",
+      "cidade": "Ilha Grande"
+    },
+    {
+      "nome": "Alessandra",
+      "idade": "21",
+      "cidade": "Parnaíba"
+    }
+  ]
+}
